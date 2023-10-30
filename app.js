@@ -2,7 +2,7 @@
 const countdownContainer = document.getElementById("countdown-container");
 
 // Set the target date and time (adjust it according to your needs)
-const targetDate = new Date("2023-11-01T12:00:00").getTime();
+const targetDate = new Date("2023-11-25T06:00:00").getTime();
 
 // Function to initialize the countdown
 function startCountdown() {
